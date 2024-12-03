@@ -8,7 +8,7 @@ function createHeader()
                 <tr>
                     <th id="headerNav"><img src="../LensPowered.ico" alt="" width="64px" height="64px"></th>
                     <th id="headerNav"><h1>Lens Powered</h1></th>
-                    <th id="headerNav"><a href="../index.php">Inicio</a> - <a href="../secciones/informaciongeneral.php">Información</a> - <a href="../secciones/catalogo.php">Catálogo</a></th>
+                    <th id="headerNav"><a href="../mainPage.php">Inicio</a> - <a href="../secciones/informaciongeneral.php">Información</a> - <a href="../secciones/catalogo.php">Catálogo</a></th>
                 </tr>
             </table>
         </center>
